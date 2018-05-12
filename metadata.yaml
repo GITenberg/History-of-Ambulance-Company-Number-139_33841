@@ -1,0 +1,43 @@
+_repo: History-of-Ambulance-Company-Number-139_33841
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: Written by members of the company.
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2010-10-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33841'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States. Army. Ambulance Company, 139th -- History'
+- !lcsh 'United States. Army -- Medical personnel'
+- !lcsh 'World War, 1914-1918 -- Regimental histories -- United States'
+- !lcsh 'United States. Army -- Transport of sick and wounded'
+- !lcsh 'United States. Army. Ambulance Company, 139th -- Directories'
+- !lcsh 'United States. Army. Division, 35th -- History'
+- !lcsh 'World War, 1914-1918 -- Medical care -- United States'
+- !lcc 'D501'
+tableOfContents: 'Organization of Ambulance Company 139 -- Life at Camp Hoel -- Training
+  at Camp Doniphan -- Departure from Camp Doniphan -- The trip across the Atlantic
+  -- Our flying trip through England -- From Southampton to Le Havre -- Our trip through
+  France to Eloyes -- In action on the Wesserling sector -- Ventron -- Le Collet --
+  The march from Luneville to Benney -- Benney to five trenches -- From five trenches
+  to Senard -- Meuse-Argonne offensive -- Citations and casualties -- The stay in
+  Vaubecourt -- The Verdun front -- Move toward Metz and the armistice -- The first
+  replacements -- Furloughs: Grenoble -- La Bourboule -- The Furloughs at Aix-Les-Baines
+  -- Trip to Marseilles -- A casual in the S.O.S. -- Pershing reviews the 35th Division
+  -- From Cousances to Aulnois -- The home going -- From Aulnois to "civies" -- Fickle
+  women -- Company roster.'
+title: History of Ambulance Company Number 139
+url: http://www.gutenberg.org/ebooks/33841
